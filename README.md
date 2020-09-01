@@ -16,7 +16,7 @@ The following tools are recommended to use to develop a webpage on GitHub.com
 
 ## Recommended Resources
 1. [Markdown Guide](https://www.markdownguide.org)
-   - Markdown Guide has an useful cheat sheet and other introdactory learning materials for Markdown. It is a great source to learn about Markdown!
+   - Markdown Guide has an useful cheat sheet and other introdactory learning materials for Markdown. It is a great source to learn how to improve README.md!
 2. [W3Schools](https://www.w3schools.com)
    - W3Schools is a mighty, webdevelopment resource. It has from introdactory to advanced learning materials for multiple laguages including HTML, CSS, JavaScript, PHP, Java, Python, and the list goes on!
 3. [YouTube](https://www.youtube.com)
