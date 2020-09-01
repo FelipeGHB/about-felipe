@@ -21,3 +21,10 @@ The following tools are recommended to use to develop a webpage on GitHub.com
    - W3Schools is a mighty, webdevelopment resource. It has from introdactory to advanced learning materials for multiple laguages including HTML, CSS, JavaScript, PHP, Java, Python, and the list goes on!
 3. [YouTube](https://www.youtube.com)
    - If you are visual learner like me YouTube can be a powerful resource. It has many tutorials and advaced level web development videos. However, be careful to get distracted by other videos!
+
+## Contributors
+Felipe, working on Computer Science program at Northwest!!
+
+![ACM](https://www.acm.org/binaries/content/gallery/acm/logos/logo_footer_acm.png)
+
+###### Image from https://www.acm.org
