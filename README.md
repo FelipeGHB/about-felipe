@@ -2,7 +2,7 @@
 
 ## Repository Links
 - [Source Repository](https://github.com/FelipeGHB/about-felipe)
-- [Hosted Page](hhttps://felipeghb.github.io/about-felipe/)
+- [Hosted Page](https://felipeghb.github.io/about-felipe/)
 
 ## About
 This page was developed for web developing proctice mainly for the creator, Felipe
