@@ -1,12 +1,14 @@
 header{
-    color: white;
     background-color: darkblue;
+}
+h1{
+    color: white;
 }
 nav{
     background-color: dimgrey;
 }
 #my_image{
-    align-items: end;
+    align-self: end;
     border-radius: 50%;
 }
 
@@ -17,4 +19,9 @@ nav{
 #linkedin{
     size: 10;
     border-radius: 50%;
+}
+
+h3{
+    color: white;
+    background-color: blue;
 }
