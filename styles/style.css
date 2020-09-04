@@ -1,12 +1,20 @@
 header{
+    color: white;
     background-color: darkblue;
 }
+nav{
+    background-color: dimgrey;
+}
 #my_image{
+    align-items: end;
     border-radius: 50%;
 }
+
 #github{
+    size: 10;
     border-radius: 50%;
 }
 #linkedin{
+    size: 10;
     border-radius: 50%;
 }
