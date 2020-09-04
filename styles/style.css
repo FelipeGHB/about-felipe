@@ -1,7 +1,12 @@
-head{
+header{
     background-color: darkblue;
-    
 }
 #my_image{
+    border-radius: 50%;
+}
+#github{
+    border-radius: 50%;
+}
+#linkedin{
     border-radius: 50%;
 }
