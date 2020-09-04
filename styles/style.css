@@ -1,7 +1,7 @@
-*{
-    color: red;
+head{
+    background-color: darkblue;
+    
 }
-
 #my_image{
     border-radius: 50%;
 }
