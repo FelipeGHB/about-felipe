@@ -1,17 +1,21 @@
 header{
-    color: white;
     background-color: darkblue;
+}
+body{
+    color: white;
+    background-image: url(http://www.lowellma.gov/ImageRepository/Document?documentID=1606);
 }
 nav{
     background-color: dimgrey;
+}
+a{
+    color: gainsboro;
 }
 #my_image{
     align-self: center;
     width: 6.5mm;
     height: 6.5mm;
     border-radius: 50%;
-}
-aside{
 }
 #github{
     size: 10;
@@ -23,6 +27,5 @@ aside{
 }
 
 h3{
-    color: white;
     background-color: blue;
 }
