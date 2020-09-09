@@ -1,17 +1,18 @@
 header{
-    background-color: darkblue;
-}
-h1{
     color: white;
+    background-color: darkblue;
 }
 nav{
     background-color: dimgrey;
 }
 #my_image{
-    align-self: end;
+    align-self: center;
+    width: 6.5mm;
+    height: 6.5mm;
     border-radius: 50%;
 }
-
+aside{
+}
 #github{
     size: 10;
     border-radius: 50%;
