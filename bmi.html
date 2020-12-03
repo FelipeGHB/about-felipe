@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BMI Calculator</title>
     <link href="styles/style.css" rel="stylesheet">
-   
 </head>
 
 <body>
+
 
     <nav>
         <a href="index.html">Home</a>
@@ -22,17 +22,15 @@
     <h1>Body Mass Index Calculator(BMI)</h1>
     </header>
 
-    <form>
+    
 
         <label for="height"><b>Height</b></label>
         <table>
             <tr>
-                <td><input type="number" id="feet" name="feet" reuqired max="7" min="1" size="10"></td>
-                <td><input type="number" id="inches" name="inches" required max="12" min="0" size="10"></td>
-            </tr>
-            <tr>
-                <td>Feet</td>
-                <td>Inches</td>
+                <td><input type="number" id="feet" name="feet" required max="7" min="0" value="0"></td>
+                <td>feet</td>
+                <td><input type="number" id="inches" name="inches" required max="12" min="0" value="0"></td>
+                <td>inches</td>
             </tr>
         </table>
 
@@ -41,16 +39,23 @@
         <label for="weight"><b>Weight</b></label>
         <table>
             <tr>
-                <td><input type="number" id="weight" name="weight" required min="0"></td>
-                <td>Pounds</td>
+                <td><input type="number" id="weight" name="weight" required min="0" value="0"></td>
+                <td>pounds</td>
+            </tr>
+            <tr>
+                <td> <button id="calcBTN">Calculate</button></td>
             </tr>
         </table>
-        <input type="submit" value="Calculate">
-    </form>
 
     <br>
 
+    <section>
+    <p> Your BMI is: <span id="bmi" name="bmi"></p>
+    </section>
+    
+    <script src="bmi.js"></script>
 
+    <br>
 
     <section>
         <ch1>       What is Body Mass Index?</ch1>
@@ -62,6 +67,8 @@
         This BMI Calculator was created according to
         <a href="https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm">National Institute of Health's Webpage</a>
     </footer>
+
+    
 
 </body>
 
